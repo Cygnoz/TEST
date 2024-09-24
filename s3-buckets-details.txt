@@ -1,0 +1,24 @@
+--------------------------------------------------------------------------------------------------
+|                                           ListBuckets                                          |
++------------------------------------------------------------------+-----------------------------+
+|  aws-security-data-lake-ap-northeast-1-0hr2hqh9sot2tp1nwo9s7xaqr |  2024-09-04T10:21:39+00:00  |
+|  aws-security-data-lake-ap-northeast-2-zvrsaocieigrgnvdzu4phei7q |  2024-09-04T10:21:42+00:00  |
+|  aws-security-data-lake-ap-northeast-3-ixbi4kxflpx1ip1mfagunjan4 |  2024-09-04T10:21:39+00:00  |
+|  aws-security-data-lake-ap-south-1-mcoca2mayej7jbayqo07wtvay0bls |  2024-09-04T10:21:29+00:00  |
+|  aws-security-data-lake-ap-southeast-1-9mvqhghmc4ji1tnnk4t1mu5by |  2024-09-04T10:21:33+00:00  |
+|  aws-security-data-lake-ap-southeast-2-heeybf6gl65uqd957elyz31nw |  2024-09-04T10:21:40+00:00  |
+|  aws-security-data-lake-ca-central-1-nuatu6re6j22udt6y7xa92e8rdk |  2024-09-04T10:21:43+00:00  |
+|  aws-security-data-lake-eu-central-1-e04af0rqvpirsh5zvdztmyw8sjz |  2024-09-04T10:21:38+00:00  |
+|  aws-security-data-lake-eu-north-1-ya7yrfe0qf0ja8yc8dntf2bczd0ra |  2024-09-04T10:21:40+00:00  |
+|  aws-security-data-lake-eu-west-1-jmakwhtpdfumiisfvoncmz3n1czn38 |  2024-09-04T10:21:38+00:00  |
+|  aws-security-data-lake-eu-west-2-siprr7e0jslfxhhucby3gpumgxgiac |  2024-09-04T10:21:37+00:00  |
+|  aws-security-data-lake-eu-west-3-z6oeybgit7yvfotn0q43do4cbsus2e |  2024-09-04T10:21:37+00:00  |
+|  aws-security-data-lake-sa-east-1-0yszzxh11lfvsjteyv8xyb4fwyh0nc |  2024-09-04T10:21:51+00:00  |
+|  aws-security-data-lake-us-east-1-yxg1rzjhquyiasj20cxjaperoebd1h |  2024-09-04T10:21:43+00:00  |
+|  aws-security-data-lake-us-east-2-jdi41paemeqvyuqesmp8ootkdonqtz |  2024-09-04T10:21:43+00:00  |
+|  aws-security-data-lake-us-west-1-d0fihojyd26jduwbp2k50o6sustmtr |  2024-09-04T10:21:46+00:00  |
+|  aws-security-data-lake-us-west-2-ozuydonlkbfkyycfhu5p3dc5es6i39 |  2024-09-04T10:21:45+00:00  |
+|  cygnoz-website                                                  |  2024-09-03T04:57:30+00:00  |
+|  wspool-app-settings-ap-south-1-654654462146-losdoqjp            |  2024-07-09T09:03:51+00:00  |
+|  wspool-logs-ap-south-1-654654462146-iur2mhwe                    |  2024-07-09T09:03:53+00:00  |
++------------------------------------------------------------------+-----------------------------+
